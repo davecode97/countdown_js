@@ -6,4 +6,4 @@
 
 💻 Youtube Tutorial >> https://youtu.be/Rib69h2DOxg
 📸 Landscape Photography of Green and Brown Palace >> https://cutt.ly/sn8IMMd
-📍Guadalajara, Mexico
+ 📍Guadalajara, Mexico
