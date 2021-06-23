@@ -1,7 +1,7 @@
 # Simple Countdown JS
 
 
-![image](https://user-images.githubusercontent.com/67779237/123032366-70c8ac80-d3ab-11eb-83be-3e8470ab0ac5.png)
+![image](https://user-images.githubusercontent.com/67779237/123032951-87bbce80-d3ac-11eb-989e-94a949a4aadb.png)
 
 
 💻 Youtube Tutorial >> https://youtu.be/Rib69h2DOxg
